@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.434,C:\Users\pTrojan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\HW\SICO_Rubena\Software\Demonstrator\v100\SR_demo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,C:\Projekty\HW\SICO_Rubena\Software\PC\v100\Unit1.pas=C:\Projekty\HW\SICO_Rubena\Software\PC\v100\Convert.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Projekty\HW\SICO_Rubena\Software\PC\v100\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,C:\Users\pTrojan\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\HW\SICO_Rubena\Software\Demonstrator\v100\Sico.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\pTrojan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,C:\Users\pTrojan\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\HW\SICO_Rubena\Software\Demonstrator\v100\SR_demo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
